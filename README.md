@@ -1,15 +1,15 @@
 # Hermit-Project
-This repository contains all that belongs to the Hermit webpage.
 <div>
     <h1 align="center">
         <img src="https://github.com/filipedonatti/Hermit-Project/blob/main/Images/Hermit.png" alt="Logo Hermit">
     </h1>
+	<h2 align="center">This repository contains all that belongs to the Hermit website.<h2>
 </div>
 
 
 ## 🔖 Ethos:
 
---> To contemplate how wondrous VR experiences can be.
+--> To contemplate how wondrous VR experiences can be. To create an online store which serves its customers opportunities to journey yon real or virtual destinations or dreamscapes.
 
 
 ### 🙅‍♂️ Developed By:
@@ -58,19 +58,19 @@ This repository contains all that belongs to the Hermit webpage.
 
 ##
 
-## 🧙‍♂️ Funcionalidades:
+## 🧙‍♂️ Components/Links/Functionalities:
 
 -->[X] Home
 <br>
 -->[X] Login
 <br>
--->[X] Cadastro
+-->[X] Registration
 <br>
 -->[X] Profile
 <br>
--->[X] Carrinho de Compras
+-->[X] Shopping Cart
 <br>
--->[X] Desenvolvedores
+-->[X] Developers/Creators
 <br>
 
 ## ⌨ How to Run This Project 🖥
