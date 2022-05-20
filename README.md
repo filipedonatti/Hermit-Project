@@ -9,7 +9,7 @@
 
 ## 🔖 Ethos:
 
---> To contemplate how wondrous VR experiences can be. To create an online store which serves its customers opportunities to journey yon real or virtual destinations or dreamscapes.
+--> To contemplate wondrous VR experiences. To create an online store which serves its customers opportunities to journey yon real or virtual destinations or dreamscapes.
 
 
 ### 🙅‍♂️ Developed By:
